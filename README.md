@@ -27,5 +27,4 @@ Unsupervised exploratory analysis, dimensionality reduction, and clustering of *
 ## Repository Contents
 
 - `ds203_Proj_final_merged.ipynb`: The completed implementation.
-- `WDICSV.csv`: World Bank WDI source dataset used.
 - `README.md`: Project documentation.
